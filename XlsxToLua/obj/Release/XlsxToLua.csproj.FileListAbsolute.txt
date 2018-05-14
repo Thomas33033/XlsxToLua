@@ -1,0 +1,7 @@
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Release\XlsxToLua.exe
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Release\XlsxToLua.pdb
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Release\LitJson.dll
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Release\MySql.Data.dll
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\obj\Release\XlsxToLua.csprojResolveAssemblyReference.cache
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\obj\Release\XlsxToLua.exe
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\obj\Release\XlsxToLua.pdb

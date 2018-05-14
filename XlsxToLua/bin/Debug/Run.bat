@@ -1,0 +1,4 @@
+::XlsxToLua.exe TestExcel ExportLua ClientVirtual lang.txt -columnInfo -allowedNullNumber -printEmptyStringWhenLangNotMatching
+::XlsxToLua.exe TestExcel ExportCsv ClientVirtual lang.txt -columnInfo -allowedNullNumber -printEmptyStringWhenLangNotMatching
+::XlsxToLua.exe TestExcel ExportCsv ClientVirtual lang.txt -columnInfo -allowedNullNumber -printEmptyStringWhenLangNotMatching -exportCsClassParam(exportPath=C:\csv\csClass|namespace=Assets.Scripts.CsClass|using=System,System.Collections.Generic)  -exportCsv 
+XlsxToLua.exe TestExcel ExportLua ClientVirtual lang.txt -columnInfo -allowedNullNumber -printEmptyStringWhenLangNotMatching -exportCsv($all) -exportCsvParam(exportPath=ExportCsv:extension=csv:splitString=,:isExportColumnName=true:isExportColumnDataType=true) -exportCsClass($all) -exportCsClassParam(exportPath=ExportCsClass:namespace=Assets.Scripts.CsClass:using=System,System.Collections.Generic)

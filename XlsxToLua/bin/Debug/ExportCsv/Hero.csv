@@ -1,0 +1,6 @@
+heroId,name,rare,type,defaultStar,isOpen,attributes
+Int,Lang,Int,Int,Int,Bool,Json
+1,英雄法师,11,1,1,true,{}
+2,英雄战士,11,2,1,true,
+3,英雄牧师,11,3,1,false,
+4,英雄勇士,11,4,1,false,{}

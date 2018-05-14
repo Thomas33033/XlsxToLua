@@ -1,0 +1,6 @@
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Debug\XlsxToLua.exe
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Debug\XlsxToLua.pdb
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Debug\LitJson.dll
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\bin\Debug\MySql.Data.dll
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\obj\Debug\XlsxToLua.exe
+D:\UnityWorkSpace\XlsxToLua-master\XlsxToLua\obj\Debug\XlsxToLua.pdb
